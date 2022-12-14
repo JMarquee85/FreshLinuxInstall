@@ -22,3 +22,6 @@ bash packages.sh
 
 Mostly as a matter of convenience for me. Like I said, you probably don't need this. 
 
+# Notes
+
+You will be prompted for sudo creds, so have the sticky note with your root password handy. 
