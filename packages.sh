@@ -13,6 +13,8 @@ openssh-server \
 whois \
 htop \ 
 gparted \
+terminator \
+
 
 # Snaps. 
 sudo snap -y install \
