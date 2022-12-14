@@ -11,14 +11,16 @@ caffeine \
 copyq \
 openssh-server \
 whois \
-htop \ 
+htop \
 gparted \
 terminator \
 
 
 # Snaps. 
 sudo snap -y install \
-sublime-text --classic
+sublime-text --classic \
+bitwarden \
+
 
 # espanso
 wget https://github.com/federico-terzi/espanso/releases/download/v2.1.8/espanso-debian-x11-amd64.deb
