@@ -39,3 +39,6 @@ sudo python3-pip install bpytop
 
 # append typical shortcuts to bashrc
 echo -e "# My aliases\nalias get'sudo apt-get -y install'\nalias upd='sudo apt-get -y update;sudo apt-get -y upgrade'\nalias p='python3'" >> ~/.bashrc
+
+# update and upgrade at the end
+sudo apt-get -y update; sudo apt-get -y upgrade
