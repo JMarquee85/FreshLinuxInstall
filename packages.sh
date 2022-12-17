@@ -17,6 +17,7 @@ terminator \
 python3-dev \
 python3-setuptools \
 dnsutils \
+zoom
 
 
 # Snaps. 
