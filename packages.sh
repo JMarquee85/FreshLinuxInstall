@@ -23,9 +23,9 @@ tcpdump \
 tshark
 
 # Snaps. 
-sudo snap -y install \
-sublime-text --classic \
-bitwarden \
+# sudo snap -y install \
+# sublime-text --classic \
+# bitwarden \
 
 
 # espanso
