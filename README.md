@@ -25,3 +25,6 @@ Mostly as a matter of convenience for me. Like I said, you probably don't need t
 # Notes
 
 You will be prompted for sudo creds, so have the sticky note with your root password handy. 
+
+# Stuff to Add 
+- A message or log to determine packages that failed. 
