@@ -27,4 +27,7 @@ Mostly as a matter of convenience for me. Like I said, you probably don't need t
 You will be prompted for sudo creds, so have the sticky note with your root password handy. 
 
 # Stuff to Add 
-- A message or log to determine packages that failed. 
+- A message or log to determine packages that failed.
+- Change to zsh
+- Install ohmyzsh
+- Change aliases to point to ~/.zshrc and fix. 
